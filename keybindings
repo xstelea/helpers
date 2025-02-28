@@ -1,0 +1,6 @@
+bindkey -s ^f "~/scripts/tmux-sessionizer\n"
+bindkey -s ^g "~/scripts/git-checkout-fzf.sh\n"
+bindkey -s ^w "~/scripts/worktree-checkout.sh\n"
+bindkey -s ^x "~/scripts/remove-worktree.sh\n"
+bindkey -s ^p "~/scripts/pr-checkout.sh\n"
+bindkey -s ^l  "~/scripts/pod-logs.sh\n"
